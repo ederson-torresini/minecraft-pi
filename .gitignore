@@ -1,0 +1,11 @@
+# Visual Studio Code
+.vscode
+
+# Repl.it
+.env
+
+# Python
+*.pyc
+.env
+.venv
+venv
